@@ -1,8 +1,5 @@
-## Welcome to my GitHub repository!
+## Welcome to my GitHub
 
-I am currently working on a project on grid diagrams of fibered knots. 🪢\
-Here I will make this project public.
-
-#### To be added in the near future:
-
-- The project in form of a python package
+I have published a small python package for working with grid diagrams of (fibered) knots.
+Its purpose is to find certain grid diagrams of fibered knots that admit a unique grid state whose Alexander grading is maximal.
+For more information see my short paper: (to be added)
